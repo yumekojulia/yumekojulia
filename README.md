@@ -62,7 +62,7 @@ void introduce(DevInProgress me) {
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>&nbsp;&nbsp;
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="50"/>
 
-<br><br>
+<br>
 
 </div>
 
