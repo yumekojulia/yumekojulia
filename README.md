@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/yumekojulia/yumekojulia/blob/output/github-contribution-grid-snake.svg)
 ## Hi there 👋
 
 <!--
