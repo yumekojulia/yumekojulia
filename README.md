@@ -63,8 +63,13 @@ void introduce(DevInProgress me) {
 
 </div>
 
-  
- 
+<p align="center">
+  <a href="https://github.com/yumekojulia/yumekojulia/discussions" style="text-decoration: none;">
+    <kbd> 💬 Join the discussion </kbd>
+  </a>
+</p>
+
+
 
 <!--
 **yumekojulia/yumekojulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
