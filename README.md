@@ -64,6 +64,11 @@ void introduce(DevInProgress me) {
 </div>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/gatinhocode.GIF" width="300">
+</p>
+
+
+<p align="center">
   <a href="https://github.com/yumekojulia/yumekojulia/discussions" style="text-decoration: none;">
     <kbd> 💬 Join the discussion </kbd>
   </a>
