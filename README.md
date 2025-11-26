@@ -55,7 +55,7 @@ void introduce(DevInProgress me) {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,py,ruby,sublime,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,py,sublime,figma" />
   </a>
 </p>
 
