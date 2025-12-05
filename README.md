@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile :3
-> "*The digital world is a bridge between curious hearts, made of bits and love." - @yumekojulia*
+> "*The digital world is a bridge between curious hearts, made of bits and love." - @0xjuL14*
 
 ```c
 /home/juh/C
@@ -46,7 +46,7 @@ void introduce(DevInProgress me) {
 
 <br><br> 
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumekojulia&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yumekojulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div> 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjuL14&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=0xjuL14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div> 
 
 <div align="center">
 
